@@ -7,5 +7,8 @@ def readInputTextFile(filename):
     Returns:
         [list of int] -- [input list]
     """
+    int_list = []
+    int_list = filename.split()
+    
     
     return int_list
